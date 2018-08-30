@@ -14,11 +14,14 @@
 
 | Description                | Price (Bt) |
 |:---------------------------|-----:|
+| Drinking Water             |  10  |
+| Oolong Tea                 |  20  |
+| Green Tea                  |  22  |
 | Hot Coffee                 |  25  |
 | Ice Coffee                 |  35  |
-| Green Tea                  |  22  |
-| Oolong Tea                 |  20  |
-| Drinking Water             |  10  |
+
+
+
 
 ---
 
